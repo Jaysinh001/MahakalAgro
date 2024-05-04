@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "787000208482",
+    "project_id": "mahakalagro-7965d",
+    "storage_bucket": "mahakalagro-7965d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:787000208482:android:d2f608d91e9a0781bdf53b",
+        "android_client_info": {
+          "package_name": "com.example.practical_assessment_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrw63enKDkWTbeamWlZFMlKHSvLX7J3l8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
